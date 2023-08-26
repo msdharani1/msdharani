@@ -1,0 +1,27 @@
+.heading{
+    margin-top: 3%;
+}
+body{
+    background-color: #e3f2ff
+}
+.fw-lighter{
+    text-align: center;
+}
+.head{
+    font-size: 40px;
+}
+.d-block{
+    height: 100%;
+}
+.card-text a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding: 0 10px;
+}
+.card-text a:hover{
+    color:brown;
+}
+.card-header{
+    border-radius: none;
+}
