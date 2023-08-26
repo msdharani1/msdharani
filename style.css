@@ -7,6 +7,10 @@ body{
 .fw-lighter{
     text-align: center;
 }
+.container-fluid img{
+    width: 50px;
+    height: 50px;
+}
 .head{
     font-size: 40px;
 }
